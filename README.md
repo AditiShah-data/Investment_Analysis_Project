@@ -4,9 +4,10 @@ This project is about Investment done by various financial institutions on diffe
 ## Includes:
 
 - [About](#about)
+- [Python](#python)
 - [CSV](#csv)
 - [SQL](#sql)
-- [Dashboard](#dashboard)
+- [Dashboard](#Finance_Analysis.pbit)
 - [Presentation](#presentaion)
 - [Insights](#insights)
 - [Author](#author)
