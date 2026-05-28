@@ -6,9 +6,8 @@ This project is about Investment done by various financial institutions on diffe
 - [About](#about)
 - [Python](Finance_cleaning.ipynb)
 - [CSV](cleaned_fin.csv)
-- [SQL](#sql)
+- [SQL](SQL.png)
 - [Dashboard](Finance_Analysis.pbit)
-- [Presentation](#presentaion)
 - [Insights](Inights.md)
 - [Author](#author)
 ---
