@@ -7,7 +7,7 @@ This project is about Investment done by various financial institutions on diffe
 - [Python](#python)
 - [CSV](#csv)
 - [SQL](#sql)
-- [Dashboard](#Investment_Analysis_Project/Finance_Analysis.pbit)
+- [Dashboard](Investment_Analysis_Project/Finance_Analysis.pbit)
 - [Presentation](#presentaion)
 - [Insights](#insights)
 - [Author](#author)
