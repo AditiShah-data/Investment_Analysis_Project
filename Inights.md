@@ -56,6 +56,23 @@
   
 ## Conclusion 
 
-- 
-investers. 
+* Project activity and investment levels grew steadily across decades, with the strongest expansion occurring during 2010–2020.
+  
+* Sovereign projects dominated in earlier decades, but Non-Sovereign projects became more prominent after 2000 and eventually surpassed  investments.
+  
+* The African Development Bank consistently remained the leading financer across all decades and project types, especially for non sovereign projects.
+  
+* Investment distribution shifted geographically over time, with Morocco, Sierra Leone, Tunisia, Egypt, Nigeria, and multinational projects emerging as major investment recipients in different decades.
+  
+* Project completion rates remained strong throughout the years, showing effective execution and implementation of funded projects.
+  
+* Cancellations became noticeable only in the most recent decade, indicating increasing project complexity and diversification.
+  
+* Financial participation expanded over time, with more institutions joining alongside the African Development Bank after 2000.
+  
+* Investment activity was generally strongest during Q2 and Q3, reflecting consistent mid-year funding momentum.
+  
+* Overall, the data shows a transition from government-focused sovereign financing toward larger, diversified, and increasingly private-sector-oriented development investments across Africa.
+  
+
   
