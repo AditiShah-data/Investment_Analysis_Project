@@ -9,7 +9,7 @@ This project is about Investment done by various financial institutions on diffe
 - [SQL](#sql)
 - [Dashboard](Finance_Analysis.pbit)
 - [Presentation](#presentaion)
-- [Insights](Insights.md)
+- [Insights](Inights.md)
 - [Author](#author)
 ---
 ### About 
